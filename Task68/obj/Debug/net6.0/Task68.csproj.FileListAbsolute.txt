@@ -1,0 +1,15 @@
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.csproj.AssemblyReference.cache
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.AssemblyInfoInputs.cache
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.AssemblyInfo.cs
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.csproj.CoreCompileInputs.cache
+/Users/ivanborodin/Desktop/C#9/Task68/bin/Debug/net6.0/Task68
+/Users/ivanborodin/Desktop/C#9/Task68/bin/Debug/net6.0/Task68.deps.json
+/Users/ivanborodin/Desktop/C#9/Task68/bin/Debug/net6.0/Task68.runtimeconfig.json
+/Users/ivanborodin/Desktop/C#9/Task68/bin/Debug/net6.0/Task68.dll
+/Users/ivanborodin/Desktop/C#9/Task68/bin/Debug/net6.0/Task68.pdb
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.dll
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/refint/Task68.dll
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.pdb
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/Task68.genruntimeconfig.cache
+/Users/ivanborodin/Desktop/C#9/Task68/obj/Debug/net6.0/ref/Task68.dll
